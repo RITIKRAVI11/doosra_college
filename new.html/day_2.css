@@ -1,0 +1,13 @@
+body{
+    background-image: url(space.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.name {
+    color: wheat;
+    font-size: 125px;
+}
+#hi{
+    color: white;
+    font-size: 200px;
+}
